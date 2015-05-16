@@ -1,0 +1,17 @@
+{
+	"name": "Canvas-code-example",
+	"version": "0.0.0",
+	"description": "Advance canvas course",
+	"main": "index.html",
+	"author": "Naveen <naveen.maltesh@gmail.com> ",
+	"license": "Creative Common",
+	"dependencies": {
+		"grunt": "^0.4.5",
+		"browserify": "^4.1.11",
+		"grunt-browserify": "^2.1.0",
+		"grunt-contrib-watch": " ^0.6.0",
+		"grunt-contrib-copy": " ^0.5.0",
+		"grunt-contrib-connect": " ^0.8.0",
+		"bower": "*"
+	}
+}

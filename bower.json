@@ -1,0 +1,12 @@
+{
+	"name": "Canvas-code-example",
+	"version": "0.0.0",
+	"description": "Advance canvas course",
+	"main": "index.html",
+	"author": "Naveen",
+	"license": "Creative-Common",
+	"dependencies": {
+		"easeljs": "*",
+		"jquery": "*"
+	}
+}
